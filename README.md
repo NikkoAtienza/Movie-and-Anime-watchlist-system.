@@ -1,5 +1,7 @@
 # Movie and Anime Watchlist System (FastAPI + SQLite)
 
+Click me: https://github.com/NikkoAtienza/Movie-and-Anime-watchlist-system
+
 ## Problem and solution
 
 Students who watch both movies and anime often lose track of what they have watched, which episode they stopped at, and what they thought of each title. Notes in phone apps or chats get scattered and are never updated.
