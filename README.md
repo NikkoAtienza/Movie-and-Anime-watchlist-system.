@@ -1,6 +1,6 @@
 # Movie and Anime Watchlist System (FastAPI + SQLite)
 
-Click me: https://github.com/NikkoAtienza/Movie-and-Anime-watchlist-system
+**Click me**: https://github.com/NikkoAtienza/Movie-and-Anime-watchlist-system
 
 ## Problem and solution
 
